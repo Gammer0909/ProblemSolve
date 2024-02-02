@@ -1,0 +1,14 @@
+C:\Users\kyle.garzon\Desktop\ProblemSolve\bin\BPC\Debug\net7.0\ProblemSolve.exe
+C:\Users\kyle.garzon\Desktop\ProblemSolve\bin\BPC\Debug\net7.0\ProblemSolve.deps.json
+C:\Users\kyle.garzon\Desktop\ProblemSolve\bin\BPC\Debug\net7.0\ProblemSolve.runtimeconfig.json
+C:\Users\kyle.garzon\Desktop\ProblemSolve\bin\BPC\Debug\net7.0\ProblemSolve.dll
+C:\Users\kyle.garzon\Desktop\ProblemSolve\bin\BPC\Debug\net7.0\ProblemSolve.pdb
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.AssemblyInfoInputs.cache
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.AssemblyInfo.cs
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.csproj.CoreCompileInputs.cache
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.dll
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\refint\ProblemSolve.dll
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.pdb
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ProblemSolve.genruntimeconfig.cache
+C:\Users\kyle.garzon\Desktop\ProblemSolve\obj\BPC\Debug\net7.0\ref\ProblemSolve.dll
