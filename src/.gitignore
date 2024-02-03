@@ -1,0 +1,8 @@
+ProblemSolve.Mac/bin
+ProblemSolve.Mac/obj
+ProblemSolve.Mac/obj/*
+ProblemSolve.Mac/bin/*
+ProblemSolve/bin
+ProblemSolve/obj
+ProblemSolve/obj/*
+ProblemSolve/bin/*
