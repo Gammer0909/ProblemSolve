@@ -2,6 +2,8 @@
 
 This repository contains my solution for the problem presented to me by Ameritech Computer Consultants, Inc.
 
+This was used as a assesment of my coding ability, however I would like to note that this project was more me learning the GUI library, and if you want an in-depth look at my coding ability, I would recommend looking at my other repositories.
+
 ## Problem
 
 This was the problem's full description:
@@ -35,7 +37,7 @@ a. It is said that “Premature Optimization is the root of all evil” and whil
 
 ## Extra Tools
 
-As the problem states, Excel puts quotations around numbers, even when they should not be stored as strings. To get around this, I supplied a snazzy Python tool to format the files for you.
+As the problem states, Excel puts quotations around numbers, even when they should not be stored as strings. To get around this, I implemented a workaround in the program if this is provided, but also basic .csv support out of the box, and a snazzy little python tool to remove the quotes from the file.
 
 To use the python tool, simply run the following command in the terminal:
 

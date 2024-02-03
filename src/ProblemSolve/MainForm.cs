@@ -75,20 +75,11 @@ namespace ProblemSolve
 			// Because the numbers in the file are very large, we'll use a BigInteger
 			BigInteger number = 0;
 
-			// Check the first line for quotes, if it has single quotes, we'll need to remove them for every line
-			var firstLine = File.ReadLines(path);
-			bool hasQuotes = firstLine.ToString().Contains("'");
-
-			if (hasQuotes) {
-				Reformat(path);
-				path = "formatted.csv";
-			}
-
 			// Loop through the file, holding one integer at a time, adding them into `number`
 			foreach (var line in File.ReadAllLines(path)) {
 				try {
 					// Parse the line into a BigInteger
-					var bigInt = BigInteger.Parse(line);
+					var bigInt = BigInteger.TryParse(line, out _) ? BigInteger.Parse(line) : BigInteger.Parse(line.Replace("\'", ""));
 					// Add the number to the total
 					number += bigInt;
 				} catch (Exception e) {
