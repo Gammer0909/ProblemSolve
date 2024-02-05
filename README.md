@@ -51,6 +51,8 @@ The output will be a file called `formatted_<input_file>`.
 
 The solution I used was pretty simple. It simply asks for a file (As per the spec), adds all the numbers up, converts the number to a string, reverses it and reads the first 10 characters. This is the final 10 digits of the sum of all the numbers in the file. This then gets displayed to the window.
 
+The main Project code is in `ProblemSolve/ProblemSolve`
+
 Note: Due to me using a mac, I was not able to use Windows Forms to make the solution, however I found a workaround using Eto.Forms instead. I hope this is acceptable.
 
 ## Installation and Usage
